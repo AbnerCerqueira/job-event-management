@@ -1,6 +1,4 @@
 @baseUrl = http://localhost:3000
 
-GET {{baseUrl}}
-
 ###
 GET {{baseUrl}}/finish/edb2e6db-5e2b-43ea-ae98-64abb6de0efd
